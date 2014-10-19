@@ -44,7 +44,7 @@
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
@@ -15490,6 +15490,10 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="205,1,67.1535,71.1835,IC1P,V+,,,,"/>
+<approved hash="205,1,67.1535,71.1835,IC1P,V-,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
