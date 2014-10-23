@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../eagle/output_attenuator/zerod.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 10/19/14 7:06 PM)
+(This file generated 10/20/14 9:36 AM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (  Tool Size)
