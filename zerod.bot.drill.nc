@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../eagle/output_attenuator/zerod.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 10/19/14 7:07 PM)
+(This file generated 10/23/14 9:45 AM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 20000.0000)
@@ -13,11 +13,11 @@
 (feed rate z  = F20    )
 (Z Axis Settings)
 (  High     Up        Down     Drill)
-(0.5000  	0.1000  	-0.0020 	-0.0630 )
+(0.5000  	0.1000  	-0.0020 	-0.0629 )
 (Settings from pcb-defaults.h)
 (isolate min = 0.0010)
-(isolate max = 0.0200)
-(isolate step = 0.0050)
+(isolate max = 0.0040)
+(isolate step = 0.0010)
 (Generated bottom outlines, bottom drill, )
 (Unit of measure: inch)
 ( Tool|       Size       |  Min Sub |  Max Sub |   Count )
@@ -44,7 +44,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.2000 Y2.2000  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.2000 Y2.2000  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.4000 Y2.3000  
 G82 X-0.6000 Y2.2000  
 G82 X-0.6000 Y1.8000  
@@ -126,7 +126,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.2500 Y0.1500  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.2500 Y0.1500  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.3500 Y0.1500  
 G82 X-0.3500 Y0.2500  
 G82 X-0.2500 Y0.2500  
@@ -158,7 +158,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.6000 Y0.6500  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.6000 Y0.6500  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.9000 Y0.6500  
 G82 X-1.5500 Y1.3500  
 G82 X-1.8500 Y1.3500  
@@ -171,7 +171,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.3000 Y2.7500  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.3000 Y2.7500  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.4000 Y2.7500  
 G82 X-0.5000 Y2.7500  
 M05
@@ -183,7 +183,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.2500 Y1.1500  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.2500 Y1.1500  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.4500 Y1.1500  
 G82 X-0.4500 Y1.4500  
 G82 X-0.2500 Y1.4500  
@@ -196,7 +196,7 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.3000 Y0.4500  Z-0.0630 F20    R0.1000  P0.100000
+G82 X-0.3000 Y0.4500  Z-0.0629 F20    R0.1000  P0.100000
 G82 X-0.3000 Y0.9000  
 G82 X-0.9000 Y0.9000  
 G82 X-0.9000 Y0.4500  
